@@ -1,0 +1,49 @@
+{
+  "name": "browser-permission-prompts",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "On-screen locations (x, y) for permissions prompts in major browsers",
+  "license": "MIT",
+  "repository": "bendrucker/browser-permission-prompts",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js | tap-difflet"
+  },
+  "keywords": [
+    "browser",
+    "permission",
+    "prompt",
+    "geolocation",
+    "rtc",
+    "allow",
+    "block",
+    "chrome",
+    "firefox",
+    "safari"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.7.4",
+    "standard": "^6.0.0",
+    "tap-difflet": "~0.4.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "chrome.json",
+    "firefox.json",
+    "safari.js",
+    "safari.json"
+  ],
+  "dependencies": {
+    "is-android": "~1.0.1",
+    "is-chrome": "~2.0.2",
+    "is-firefox": "~1.0.3",
+    "is-ios": "~1.0.0",
+    "is-safari": "~1.0.0",
+    "view-size": "~1.0.1"
+  }
+}
