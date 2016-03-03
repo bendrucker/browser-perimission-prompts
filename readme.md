@@ -1,4 +1,4 @@
-# browser-perimission-prompts [![Build Status](https://travis-ci.org/bendrucker/browser-perimission-prompts.svg?branch=master)](https://travis-ci.org/bendrucker/browser-perimission-prompts)
+# browser-perimission-prompts [![Build Status](https://travis-ci.org/bendrucker/browser-permission-prompts.svg?branch=master)](https://travis-ci.org/bendrucker/browser-permission-prompts)
 
 > On-screen locations (x, y) for permissions prompts in major desktop browsers
 
@@ -11,14 +11,14 @@ Supports:
 ## Install
 
 ```
-$ npm install --save browser-perimission-prompts
+$ npm install --save browser-permission-prompts
 ```
 
 
 ## Usage
 
 ```js
-var prompt = require('browser-perimission-prompts')
+var prompt = require('browser-permission-prompts')
 
 prompt()
 //=> {...}
