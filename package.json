@@ -1,7 +1,7 @@
 {
   "name": "browser-permission-prompts",
   "main": "index.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "On-screen locations (x, y) for permissions prompts in major browsers",
   "license": "MIT",
   "repository": "bendrucker/browser-permission-prompts",
