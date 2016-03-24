@@ -33,8 +33,8 @@ test('Safari', function (t) {
     prompt: [
       {x: 190, y: 0},
       {x: 610, y: 0},
-      {x: 610, y: 140},
-      {x: 190, y: 140}
+      {x: 610, y: 156},
+      {x: 190, y: 156}
     ],
     confirm: {
       x: 551
