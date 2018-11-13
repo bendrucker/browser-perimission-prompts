@@ -1,4 +1,4 @@
-# browser-perimission-prompts [![Build Status](https://travis-ci.org/bendrucker/browser-permission-prompts.svg?branch=master)](https://travis-ci.org/bendrucker/browser-permission-prompts)
+# browser-perimission-prompts [![Build Status](https://travis-ci.org/bendrucker/browser-permission-prompts.svg?branch=master)](https://travis-ci.org/bendrucker/browser-permission-prompts) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/browser-permission-prompts.svg)](https://greenkeeper.io/)
 
 > On-screen locations (x, y) for permissions prompts in major desktop browsers
 
