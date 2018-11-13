@@ -26,9 +26,9 @@
     "safari"
   ],
   "devDependencies": {
-    "proxyquire": "~1.7.4",
-    "standard": "^6.0.0",
-    "tap-difflet": "~0.4.0",
+    "proxyquire": "~2.1.0",
+    "standard": "^12.0.1",
+    "tap-difflet": "~0.7.1",
     "tape": "^4.0.0"
   },
   "files": [
@@ -41,7 +41,7 @@
   ],
   "dependencies": {
     "is-android": "~1.0.1",
-    "is-chrome": "~2.0.2",
+    "is-chrome": "~3.0.0",
     "is-firefox": "~1.0.3",
     "is-ios": "~1.0.0",
     "is-safari": "~1.0.0",
